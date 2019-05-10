@@ -8,6 +8,7 @@
 
 **Group members**:  
 - Samantha Sun - 1st year PhD student (sunh20@uw.edu)
+- Grace Jun - Junior (gracejun@uw.edu)
 - (add your names + emails here!)
 
 **Consultants**:  
